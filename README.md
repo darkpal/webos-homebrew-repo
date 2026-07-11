@@ -1,11 +1,12 @@
-# webOS Homebrew Repo
+# webOS Homebrew Repo (legacy)
 
-Custom-репозиторий для Homebrew Channel.
-
-## URL для ТВ
+Канонический Homebrew-каталог перенесён в репозиторий приложения:
 
 ```text
-https://raw.githubusercontent.com/darkpal/webos-homebrew-repo/main/apps.json
+https://raw.githubusercontent.com/darkpal/KPuppy/develop/homebrew/apps.json
 ```
 
-- **KPuppy** `0.0.8` — форк с фиксом resume и Magic Remote seek: https://github.com/darkpal/KPuppy
+Исходники и релизы: https://github.com/darkpal/KPuppy
+
+Этот репозиторий оставлен для совместимости: `apps.json` ниже по-прежнему
+работает, но новые установки лучше подключать по URL из KPuppy.
