@@ -12,7 +12,7 @@
 2. Добавьте **Custom Repository** с этим URL:
 
 ```text
-https://raw.githubusercontent.com/<GITHUB_USER>/webos-homebrew-repo/main/apps.json
+https://raw.githubusercontent.com/darkpal/webos-homebrew-repo/main/apps.json
 ```
 
 3. Вернитесь в список приложений, найдите **KPuppy** и установите.
