@@ -1,24 +1,17 @@
 # webOS Homebrew Repo
 
-Небольшой custom-репозиторий для [Homebrew Channel](https://github.com/webosbrew/webos-homebrew-channel) на LG webOS TV.
+Custom-репозиторий для [Homebrew Channel](https://github.com/webosbrew/webos-homebrew-channel).
 
-Сейчас в списке:
-
-- **[KPuppy](https://github.com/twttr/KPuppy)** — клиент KinoPub для webOS
-
-## Как добавить на телевизор
-
-1. Откройте **Homebrew Channel** → **Settings**.
-2. Добавьте **Custom Repository** с этим URL:
+## Установка URL
 
 ```text
 https://raw.githubusercontent.com/darkpal/webos-homebrew-repo/main/apps.json
 ```
 
-3. Вернитесь в список приложений, найдите **KPuppy** и установите.
+Сейчас в списке:
 
-Root **не требуется**.
+- **[KPuppy](https://github.com/darkpal/KPuppy)** `0.0.8` — форк с фиксом resume и Magic Remote seek
 
-## Обновления
+## Обновление на ТВ
 
-`manifestUrl` указывает на `releases/latest` upstream-проекта KPuppy, поэтому при выходе новой версии Homebrew Channel сможет предложить обновление.
+Homebrew Channel → обновите KPuppy из этого репозитория.

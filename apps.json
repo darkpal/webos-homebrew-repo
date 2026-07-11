@@ -3,9 +3,9 @@
     {
       "id": "com.kpuppy.app",
       "title": "KPuppy",
-      "shortDescription": "Легкий клиент KinoPub для LG webOS TV",
-      "iconUri": "https://raw.githubusercontent.com/twttr/KPuppy/develop/webos-meta/icon.png",
-      "manifestUrl": "https://github.com/twttr/KPuppy/releases/latest/download/com.kpuppy.app.manifest.json"
+      "shortDescription": "KinoPub для LG webOS — форк с фиксом позиции и Magic Remote seek",
+      "iconUri": "https://raw.githubusercontent.com/darkpal/KPuppy/develop/webos-meta/icon.png",
+      "manifestUrl": "https://github.com/darkpal/KPuppy/releases/latest/download/com.kpuppy.app.manifest.json"
     }
   ]
 }
